@@ -1,0 +1,139 @@
+body{
+margin:0px;padding:0px; font-size:12px; color:#333333;}
+.body{
+margin-left:auto; margin-right:auto; width:900px;}
+.top{
+height:30px; border-bottom:#CCCCCC dashed 1px;}
+.top1{
+float:left;
+padding-top:10px;
+padding-right:24px;}
+a:visited {
+	color: #003399;
+	text-decoration: none;
+}
+a:hover {
+	color: #0033CC;
+	text-decoration: underline;
+}
+a:link {
+	color: #003399;
+	text-decoration: none;
+}
+.banner{
+height:60px; padding-top:20px;}
+.titlePic{
+width:150px; padding-left:10px; margin-right:20px; float:left;}
+.titlePic1{
+width:300px; padding-left:10px; margin-right:20px; float:left;}
+.citySelect{
+width:120px; height:36px; float:left; margin-top:10px;}
+.titleRight{
+width:530px; height:40px; margin-top:5px; background-color:#fdf3e1; float:left; padding-left:50px; margin-left:20px;}
+.title1{
+float:left;
+padding-top:16px;
+padding-right:24px;}
+.nav{ width:670px; border-bottom:solid 1px #CCCCCC; height:30px;}
+.leixing{ width:700px; margin-top:50px; float:left; clear:both;}
+.lxWord{ width:80px; height:20px; float:left; margin-left:auto; margin-right:auto;}
+.main{ clear:both; width:700px; margin-top:20px;}
+.actLeft{ width:310px; margin:10px; height:140px; float:left; padding:10px;}
+.actRight{width:310px; margin:10px; height:140px; float:left; padding:10px;}
+.actPhoto{ width:90px; height:136px; float:left; overflow:hidden; margin:auto; padding-top:4px;}
+.actWord{ width:210px; height:140px; float:left; margin-left:10px;}
+.actTitle{ font-size:14px; line-height:24px;}
+.actTime{ }
+.actAdress{ color:#666666;}
+.right{ width:200px; float:left;}
+.myPhoto{ width:200px; margin-top:20px; margin-bottom:20px; height:100px; overflow:hidden; margin-left:auto; margin-right:auto;}
+.myTongcheng{ width:200px; height:400px;}
+.myTitle{ font-size:14px; color:#666666; height:30px;}
+.myAct{}
+.myMore{}
+.zhubanfang{ width:200px;}
+.zbf{ margin-top:10px; height:100px;}
+.zbf1{ float:left; width:65px; margin-left:auto; margin-right:auto;}
+.zbf2{ float:left; width:65px; margin-left:auto; margin-right:auto;}
+.zbf3{ float:left; width:65px; margin-left:auto; margin-right:auto;}
+.zbfWord{ padding-top:5px;}
+.word{}
+.word a:link {
+	color: #666666;
+	text-decoration: none;
+}
+.word a:visited {
+	color: #666666;
+	text-decoration: none;
+}
+.word a:hover {
+	color: #000000;
+}
+.bottom{ height:30px; border-top:dashed 1px #CCCCCC; margin-top:20px; clear:both;}
+.leader{ width:680px; height:140px; padding:10px;}
+.leaderPhoto{ width:140px; margin-left:10px; margin-right:10px; margin-top:4px; float:left;}
+.leaderDetail{ width:300px; height:140px; margin-left:auto; margin-right:auto; float:left;}
+.leaderWord{ height:20px;}
+.leaderIn{ margin-left:10px; width:150px; border-left:#CCCCCC solid 1px; padding-left:30px; float:left; height:140px;}
+.detail{ width:680px; padding:10px;}
+.detailTitle{ color:#666666; font-size:14px; width:680px;}
+.detailWord{ width:600px; margin-left:24px; padding-top:20px; line-height:24px;}
+.member{width:680px; padding:10px;}
+.memberList{ width:80px; height:80px; float:left; margin-top:20px; margin-bottom:20px;}
+
+.loginTitle{
+height:70px; margin-top:50px; width:900px;}
+.loginContent{
+height:200px; width:400px; padding-top:40px; float:left;}
+.line{
+width:400px; height:40px;}
+.loginWord{
+float:left; width:60px; height:40px; padding-left:30px; font-size:14px;}
+.loginFrame{
+width:220px; height:40px; float:left;}
+.loginButton{
+width:82px; height:35px; font-size:16px; background-color:#e9f8ff; border:none;}
+.loginReg{
+margin-left:100px; width:200px; height:200px; float:left; padding-top:40px;}
+.registerContent{
+height:340px; width:400px; padding-top:40px; float:left;}
+.registerWord{
+float:left; width:120px; height:40px; padding-left:30px; font-size:14px;}
+.zhubanfangContent{
+height:800px; width:400px; padding-top:40px; float:left;}
+.zhubanfangFrame{
+width:220px; height:120px; float:left; margin-top:0px;}
+.hdJuanzhuList{
+margin-top:10px; clear:both;}
+.hdJuanzhu{
+list-style:none; height:40px; clear:both; border-bottom:#CCCCCC 1px dashed; margin-top:10px;}
+.hdJuanzhuTime{
+float:left; width:60px; margin-right:10px;}
+.hdJuanzhuName{
+float:left; width:50px;}
+.hdJuanzhuMoney{
+float:left;}
+.hdName{
+width:130px; float:left;}
+.huodongContent{
+height:580px; width:500px; padding-top:40px; float:left;}
+.line2{
+width:400px; height:130px;}
+.zbfCheckBox{
+float:left; width:55px; margin-right:10px;}
+.backLeft{
+float:left; width:280px;}
+.backMiddle{
+float:left; width:280px;}
+.backRight{
+float:left; width:200px;}
+.backLine{
+border-bottom:#CCCCCC dashed 1px; padding-bottom:10px;}
+.backList{
+height:600px; width:240px; margin:10px; padding:10px; border-right:#CCCCCC dashed 1px;}
+.backLi{
+height:30px;}
+.name{
+width:130px; float:left;}
+.rectify{
+float:left; width:70px;}
